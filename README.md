@@ -61,7 +61,7 @@ The dataset used is the **IBM Telco Customer Churn Dataset**, which contains cus
 - Logistic Regression achieved the best overall performance
 - Ensemble models did not significantly outperform the linear model
 - Hyperparameter tuning provided minimal improvement
-- Dataset shows relatively simple and near-linear patterns
+- The dataset shows relatively simple and near-linear patterns
 
 ---
 
@@ -74,29 +74,6 @@ The project includes:
 - Model performance comparison
 - ROC curves
 - Confusion matrix
-
----
-
-##  Key Insights
-- Simpler models can outperform complex models in structured datasets
-- Feature engineering improves interpretability and performance
-- Class imbalance affects recall and model evaluation
-
----
-
-##  Limitations
-- Dataset is synthetic and may not reflect real-world complexity
-- Moderate class imbalance affects performance
-- Limited feature interactions
-
----
-
-##  Future Work
-- Apply advanced feature engineering techniques
-- Use cost-sensitive learning for class imbalance
-- Implement SHAP for explainability
-- Test on larger and real-world datasets
-- Explore deep learning models
 
 ---
 
