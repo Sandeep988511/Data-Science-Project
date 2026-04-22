@@ -84,6 +84,4 @@ The project includes:
 - XGBoost
 - Matplotlib, Seaborn
 
----
 
-## 📂 Project Structure
